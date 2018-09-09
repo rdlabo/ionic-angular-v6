@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"IonicErrorHandler":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"@angular/core","name":"ErrorHandler","line":42,"character":39},"members":{"__ctor__":[{"__symbolic":"constructor"}],"handleError":[{"__symbolic":"method"}]}}}}]

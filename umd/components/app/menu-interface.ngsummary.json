@@ -1,0 +1,1 @@
+{"moduleName":null,"summaries":[{"symbol":{"__symbol":0,"members":[]},"metadata":{"__symbolic":"interface"}},{"symbol":{"__symbol":1,"members":[]},"metadata":{"__symbolic":"interface"}}],"symbols":[{"__symbol":0,"name":"Menu","filePath":"./menu-interface"},{"__symbol":1,"name":"MenuType","filePath":"./menu-interface"}]}
